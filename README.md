@@ -1,3 +1,7 @@
+
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
+
+
 # **Greatsword V3**
 
 [Demo Link](https://jhgfkhgyg.onrender.com/) (Not working anymore because I got banned)
